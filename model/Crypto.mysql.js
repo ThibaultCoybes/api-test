@@ -6,7 +6,7 @@ const Crypto = function(crypto){
 }
 
 Crypto.create = (newCrypto, result) => {
-    sql.query('INSERT INTO crypto SET ?', newCrypto, (err, res) => {
+    sql.query('INSERT INTO cryptos SET ?', newCrypto, (err, res) => {
         if(err){
             console.log('error: ', err)
             result(err, null)
