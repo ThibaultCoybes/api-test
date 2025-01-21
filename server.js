@@ -19,5 +19,5 @@ app.use((req, res, next)=>{
     next()
 })
 app.listen(7008, () => {
-    log.writeLog('server.log', "Server Démarré ! ")
+    log.writeLog('server.log', "✅ - Server Démarré ! ")
 })
