@@ -15,3 +15,23 @@
  [object Object]2025-01-20T15:09:44.580Z - ✅ Server Démarré !  
 2025-01-20T15:09:48.637Z - METHOD : POST / URL : localhost:5001/presentation/createPresentation 
  [object Object]2025-01-20T15:12:41.898Z - ✅ Server Démarré !  
+2025-01-21T13:24:43.905Z - ✅ Server Démarré !  
+2025-01-21T13:26:38.769Z - ✅ Server Démarré !  
+2025-01-21T13:27:43.114Z - ✅ Server Démarré !  
+2025-01-21T13:28:37.772Z - ✅ Server Démarré !  
+2025-01-21T13:28:53.872Z - ✅ Server Démarré !  
+2025-01-21T13:38:42.726Z - ✅ Server Démarré !  
+2025-01-21T13:39:00.817Z - ✅ Server Démarré !  
+2025-01-21T13:39:24.748Z - ✅ Server Démarré !  
+2025-01-21T13:39:36.328Z - ✅ Server Démarré !  
+2025-01-21T13:39:45.291Z - ✅ Server Démarré !  
+2025-01-21T13:44:04.911Z - ✅ Server Démarré !  
+2025-01-21T13:44:52.258Z - ✅ Server Démarré !  
+2025-01-21T13:49:55.540Z - ✅ Server Démarré !  
+2025-01-21T13:51:45.263Z - ✅ Server Démarré !  
+2025-01-21T13:53:12.480Z - ✅ Server Démarré !  
+2025-01-21T13:53:21.838Z - ✅ Server Démarré !  
+2025-01-21T13:53:38.856Z - ✅ Server Démarré !  
+2025-01-21T13:53:48.702Z - ✅ Server Démarré !  
+2025-01-21T13:54:45.018Z - METHOD : POST / URL : localhost:7008/crypto/postArticle 
+ [object Object]
