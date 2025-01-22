@@ -23,6 +23,7 @@ yarn-error.log
 *.log
 *.tmp
 *~
+**/logs
 
 # Fichiers d'IDE et éditeurs
 .idea/
