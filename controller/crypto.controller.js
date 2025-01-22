@@ -12,7 +12,6 @@ exports.create = (req, res) => {
     const cryptoInsert = new Crypto({
         name: req.body.name,
         price: req.body.price,
-        currency: req.body.currency
     })
 
     Crypto.create(cryptoInsert, (err, data) => {

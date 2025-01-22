@@ -2,15 +2,15 @@ const mysql = require('mysql')
 // const dbConfig = require('./db.config')
 
 const connection = mysql.createConnection({
-    // host: "localhost",
-    // user: "paul",
-    // password: "Need4school",
-    // database: "thibault25",
     host: "localhost",
-    user: "root",
-    password: "root",
-    database: "bci25",
-    port: 8887
+    user: "paul",
+    password: "Need4school",
+    database: "thibault25",
+    // host: "localhost",
+    // user: "root",
+    // password: "root",
+    // database: "bci25",
+    // port: 8887
 })
 
 connection.connect(err => {

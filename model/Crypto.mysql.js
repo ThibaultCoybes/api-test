@@ -3,7 +3,6 @@ const sql = require('../config/db')
 const Crypto = function(crypto){
     this.name = crypto.name;
     this.price = crypto.price;
-    this.currency = crypto.currency;
 }
 
 Crypto.create = (newCrypto, result) => {
